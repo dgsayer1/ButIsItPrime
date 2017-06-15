@@ -1,0 +1,6 @@
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\bin\Debug\ButIsItPrime.exe.config
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\bin\Debug\ButIsItPrime.exe
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\bin\Debug\ButIsItPrime.pdb
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\obj\Debug\ButIsItPrime.csprojResolveAssemblyReference.cache
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\obj\Debug\ButIsItPrime.exe
+C:\Git\ButIsItPrime\ButIsItPrime\ButIsItPrime\obj\Debug\ButIsItPrime.pdb
